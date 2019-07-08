@@ -5,7 +5,6 @@
 </head>
 <body>
     <header>
-	<div id=div4>
       <nav class="navigation">
 	    <ul class="nav-ul">
 			<li><a href="home.html"> Home</a> </li>
@@ -14,7 +13,6 @@
 		    <li><a href="about.html"> About</a> </li>
 		</ul>
      </nav>
-	</div>
    </header>
 	<main>
 	<section id="free">
