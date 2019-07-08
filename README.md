@@ -1,5 +1,4 @@
 # Home-Automation
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="description" content="xyz">
